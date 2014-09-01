@@ -1,0 +1,8 @@
+- Seperate modules with maven
+- Create domain model and data source
+- Manage persistence in some case (lazy loading)
+- Manage transaction with spring tx
+- Apply spring MVC
+- Apply spring security for authentication and authorize
+- Upload file
+- Send mail

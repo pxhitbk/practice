@@ -1,0 +1,12 @@
+Draft
+Multiple modules with Maven:
+1. Core:
+- Base entity
+- User
+- Base service
+- Service Resolver
+- Base DAO
+- CommonSetting (global common setting for application)
+- AuthenticationService 
+2. Business (News, Payment, Finance, TaskManager)
+- services
